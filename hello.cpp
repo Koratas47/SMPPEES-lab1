@@ -4,4 +4,4 @@ int main() { return 0; }
 // Unstaged modification 
 void masterFunction() {} 
 void secFunction() {} 
-
+// Edited on GitHub
