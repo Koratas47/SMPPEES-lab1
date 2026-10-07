@@ -3,3 +3,5 @@ int main() { return 0; }
 // Staged modification 
 // Unstaged modification 
 void masterFunction() {} 
+void secFunction() {} 
+
